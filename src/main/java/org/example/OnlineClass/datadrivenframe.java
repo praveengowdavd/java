@@ -47,7 +47,7 @@ public class datadrivenframe extends BaseClass {
         XSSFWorkbook wb = new XSSFWorkbook(file);
         XSSFSheet sh = wb.getSheetAt(0);
         String val = sh.getRow(0).getCell(0).getStringCellValue();
-        System.out.println(val);
+
         int lastRow = sh.getLastRowNum();
 
 
