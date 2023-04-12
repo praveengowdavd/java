@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]">
+  <test thread-count="5" name="C:/Users/mkmoh/IdeaProjects/java/src/main/java/org/example/OnlineClass/datadrivenframe.java(failed)">
+    <classes>
+      <class name="org.example.OnlineClass.datadrivenframe">
+        <methods>
+          <include name="test" invocation-numbers="0 1 2"/>
+          <include name="open"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- org.example.OnlineClass.datadrivenframe -->
+    </classes>
+  </test> <!-- C:/Users/mkmoh/IdeaProjects/java/src/main/java/org/example/OnlineClass/datadrivenframe.java(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
